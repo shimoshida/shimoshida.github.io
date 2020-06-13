@@ -1,0 +1,62 @@
+baseurl = "http://shimoshida.github.io/profile"
+title = "profile page"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Masayuki Shimoda"
+    info = "Researcher at NTT Network Innovation Laboratories"
+    description = "Masayuki Shimoda's personal website"
+    keywords = "personal"
+    avatarurl = "images/avatar.jpg"
+
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
+
+    footercontent = "NO COFFEE, NO LIFE."
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/shimoshida/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 2
+    url = "https://twitter.com/moshida_"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/in/masayuki-shimoda"
+[[params.social]]
+    name = "E-mail"
+    icon = "fa fa-envelope"
+    weight = 4
+    url = "mailto:moshimoshimoshida@gmail.com"
+
+# Menu links
+[[menu.main]]
+    name = "CV"
+    weight = 1
+    url  = "https://github.com/shimoshida/CV/blob/pdf/resume.pdf"
