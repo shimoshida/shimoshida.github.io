@@ -1,4 +1,4 @@
-baseurl = "http://shimoshida.github.io"
+baseurl = "https://shimoshida.github.io"
 title = "profile page"
 theme = "hugo-coder"
 languagecode = "en"
