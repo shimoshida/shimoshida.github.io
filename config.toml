@@ -39,11 +39,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/shimoshida/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 2
-    url = "https://twitter.com/moshida_"
+#[[params.social]]
+#    name = "Twitter"
+#    icon = "fab fa-twitter fa-2x"
+#    weight = 2
+#    url = "https://twitter.com/moshida_"
 [[params.social]]
     name = "Linkedin"
     icon = "fab fa-linkedin fa-2x"
