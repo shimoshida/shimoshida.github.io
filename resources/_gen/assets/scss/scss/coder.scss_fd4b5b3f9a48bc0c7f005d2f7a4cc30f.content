@@ -229,7 +229,7 @@ img.emoji {
     margin: 0; }
 
 .avatar img {
-  width: 30rem;
+  width: 20rem;
   height: auto;
   border-radius: 50%; }
   @media only screen and (max-width: 768px) {
