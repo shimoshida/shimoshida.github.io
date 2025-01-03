@@ -1,5 +1,5 @@
 # Profile site
+作成時のHugoのバージョンが古すぎてもうだめ.
 
-
-# How to update
-1. 
+## How to update
+`public/index.html`を直接編集して肩書変えて.
